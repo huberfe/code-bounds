@@ -13,10 +13,10 @@ Upper bounds based on the SDP framework developed in
 https://arxiv.org/abs/2408.10323
 - Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
 
-Lower bounds based on constructions. (Exhaustive list see below)
+Lower bounds based on constructions. (Exhaustive list see below TODO)
 
 
-| **n** \ **d ** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
+| **n** \ **d** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
 |-----------------------------|----------------|----------------------------|-------------------------|-------------------------|---------------|-------|---------------|
 | **7**                       | 24 - 26        | 2 - 3                      | 0                       | 0                       | 0             | 0     | 0             |
 | **8**                       | 64             |    8**(9)              | 1                       | 0                       | 0             | 0     | 0             |
@@ -31,3 +31,8 @@ Lower bounds based on constructions. (Exhaustive list see below)
 | **17**                      | 16384 - 30720  | 2048 - 2145                | 512                     | 32 - **59**(64)    | 4 - 8         | 2     | 0             |
 | **18**                      | 65536          | 2048 - 4096                | 512 - **921**(986) | 64 - 113                | 16 - 22       | 2     | 1             |
 | **19**                      | 65536 - 123790 | 4096 - **7420**(8426) | 1024 - 1804             | 128 - **249**(296) | 32 - 47       | 2 - 3 | **0**(1) |
+
+
+### Some comments to specific codes:
+
+### Updates since 5 March 2026:
