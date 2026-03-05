@@ -35,6 +35,8 @@ Lower bounds based on constructions. (Exhaustive list see below TODO)
 | **19**                      | 65536 - 123790 | 4096 - **7420**(8426) | 1024 - 1804             | 128 - **249**(296) | 32 - 47       | 2 - 3 | **0**(1) |
 
 
-### Some comments to specific codes:
+#### Some comments to specific codes:
+(add)
 
-### Updates since 5 March 2026:
+#### Updates since 5 March 2026:
+(none)
