@@ -9,15 +9,6 @@ Upper and lower bounds on quantum error correcting codes. Maximum code size $K$ 
 Lower and upper bounds are separated by a dash $-$.  If one number is shown only, upper and lower bounds meet. A $0$ implies that such code do not exist. When our SDP improves a known bound, the stronger SDP bound it highlighted in bold with the previous bound in parenthesis.
 
 
-Upper bounds based on the SDP framework developed in 
-
-- Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
-https://arxiv.org/abs/2408.10323
-- Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
-
-Lower bounds based on constructions. (Exhaustive list see below TODO)
-
-
 | **n** \ **d** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
 |-----------------------------|----------------|----------------------------|-------------------------|-------------------------|---------------|-------|---------------|
 | **7**                       | 24 - 26        | 2 - 3                      | 0                       | 0                       | 0             | 0     | 0             |
@@ -35,8 +26,21 @@ Lower bounds based on constructions. (Exhaustive list see below TODO)
 | **19**                      | 65536 - 123790 | 4096 - **7420**(8426) | 1024 - 1804             | 128 - **249**(296) | 32 - 47       | 2 - 3 | **0**(1) |
 
 
+#### For pure codes the above bounds are strenghtened to:
+(add)
+
 #### Some comments to specific codes:
 (add)
 
 #### Updates since 5 March 2026:
 (none)
+
+#### Origin of bounds
+
+Upper bounds are based on the SDP framework developed in 
+
+- Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
+https://arxiv.org/abs/2408.10323
+- Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
+
+Lower bounds based on constructions. (Exhaustive list see below TODO)
