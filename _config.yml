@@ -5,7 +5,7 @@ title: Code bounds
 
 markdown: kramdown
 kramdown:
-  math_engine: null
+  math_engine: mathjax
   math_engine_opts:
     enabled: true
     preview: true
