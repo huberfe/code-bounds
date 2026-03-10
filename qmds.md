@@ -1,3 +1,11 @@
+---
+layout: default
+title: QMDS code bounds
+---
+
+# QMDS code bounds
+
+
 ## Upper and lower bounds for the highest distance in QMDS families
 
 ### local dimension~$D=3$.

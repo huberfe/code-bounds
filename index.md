@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDP bounds on quantum codes
+title: SDP, AME, QMDS bounds
 ---
 
 ## Bounds on quantum codes.
