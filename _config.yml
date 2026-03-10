@@ -14,11 +14,3 @@ description:
 url: https://huberfe.github.io/code-bounds
 baseurl:
 
-
-nav:
- - name: "Home"
-   link: "index"
- - name: "SDP bounds"
-   link: "sdp"
- - name: "QMDS bounds"
-   link: "qmds"
