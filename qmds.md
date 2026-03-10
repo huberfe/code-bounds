@@ -1,8 +1,3 @@
----
-layout: default
-title: QMDS code bounds
----
-
 # QMDS code bounds
 
 
@@ -14,7 +9,7 @@ Codes are marked with $\ast$ if lower and upper bounds meet.
 
 | **n+k** | **upper**                 | **lower**             |        |                               |
 |------------------|------------------------------|----------------------------|--------|-------------------------------|
-| $ 4 $          | $[[ 4 , 0 , 3 ]]_3 $  | $[[ 4 , 0 , 3 ]]_3 $ | $\ast$ | Hermitean                     |
+| $ 4 $          | $ [[ 4 , 0 , 3 ]]_3 $  | $[[ 4 , 0 , 3 ]]_3 $ | $\ast$ | Hermitean                     |
 | $ 6 $          | $[[ 6 , 0 , 4 ]]_3 $  | $[[ 6 , 0 , 4 ]]_3 $ | $\ast$ | Rains~\cite{782103}           |
 | $ 8 $          | $[[ 6 , 2 , 3 ]]_3 $  | $[[ 6 , 2 , 3 ]]_3 $ | $\ast$ | Single-Error                  |
 | $ 10 $         | $[[ 10 , 0 , 6 ]]_3 $ | $[[ 10, 0 , 6 ]]_3 $ | $\ast$ | Glynn code~\cite{GLYNN198643} |
