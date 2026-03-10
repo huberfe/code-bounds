@@ -11,8 +11,8 @@ kramdown:
 title: quantum code bounds
 description:
 
-url: "https://huberfe.github.io/code-bounds"
-baseurl: ""
+url: https://huberfe.github.io/code-bounds
+baseurl:
 
 
 nav:
