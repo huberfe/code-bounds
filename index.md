@@ -10,7 +10,7 @@ This repository focuses on specialised bounds:
  1. [**QMDS bounds**](qmds.md) (bounds for quantum maximum distance seperable codes)
  2. [**SDP bounds**](sdp.md)  (upper bounds based on semidefinite programming, also for non-additive codes)
  3. [**AME bounds**](https://huberfe.github.io/ame) (bounds for absolutely maximally entangled states / perfect tensors))
- 4. [**mixed dim AME bounds](ame_mixed.md) (bound for mixed dimensional AME/perfect tensors)
+ 4. [**mixed dim AME bounds**](ame_mixed.md) (bound for mixed dimensional AME/perfect tensors)
  
   
   

@@ -2,7 +2,7 @@
 
 ## Upper and lower bounds for the highest distance in QMDS families
 
-Codes are marked with $$\ast$$ if lower and upper bounds meet.
+Codes are marked with \(\ast\) if lower and upper bounds meet.
 
 ### local dimension $$D=3$$.
 
