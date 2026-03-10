@@ -9,7 +9,7 @@ kramdown:
     preview: true
 
 title: quantum code bounds
-description: Bounds on quantum codes, QMDS, AME, SDP
+description:
 
 url: "https://huberfe.github.io/code-bounds"
 baseurl: ""
