@@ -28,12 +28,8 @@ A stronger SDP bound is highlighted in bold with the previous bound in parenthes
 
 ## For pure codes the bounds marked with $$\alpha$$ strenghten to:
 
-$$
-\begin{align}\label{eq:pure_inf}
- (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,, 
- (\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.
-\end{align}
-$$
+$$ (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,, 
+ (\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.$$
 
 
 ## Some comments to specific codes:
