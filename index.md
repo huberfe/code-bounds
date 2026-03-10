@@ -5,6 +5,9 @@ title: SDP, AME, QMDS bounds
 
 ## Bounds on quantum codes.
 
+There is the great collection of bounds on quantum codes at [Code Tables](www.codetables.de).
+This repository focuses on stronger or specialised bounds:
+
  1. [SDP bounds](sdp.md)
  2. [QMDS bounds](qmds.md)
  3. [AME bounds](ame.md)
@@ -16,5 +19,5 @@ title: SDP, AME, QMDS bounds
 ## Other sites:
  - [Quantum Max Cut](https://marwahaha.github.io/quantum-maxcut-reference/)
  - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
- - [Grassl's Code Tables](www.codetables.de)
+ - [Code Tables](www.codetables.de)
  
