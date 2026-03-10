@@ -8,10 +8,10 @@ title: SDP, AME, QMDS bounds
 There is the great collection of bounds on quantum codes at [Code Tables](www.codetables.de).
 This repository focuses on stronger or specialised bounds:
 
- 1. [SDP bounds](sdp.md)
+ 1. [AME bounds](https://huberfe.github.io/ame)
  2. [QMDS bounds](qmds.md)
- 3. [AME bounds](ame.md)
- 
+ 3. [SDP bounds](sdp.md)
+  
  Updates welcome via pull requests ("improve this page" button below) 
  or email (felix.huber ät physik.uni-siegen.de).
 
