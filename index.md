@@ -23,3 +23,5 @@ There is the great collection of bounds on additive/stabilizer quantum codes at 
 
 Updates via pull requests ("improve this page" button below) 
 or email (felix PUNKT huber ät physik PUNKT uni-siegen PUNKT de) welcome.
+
+All tables editable except of the AME table which is not simple markdown language.
