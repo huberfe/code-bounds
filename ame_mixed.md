@@ -4,6 +4,9 @@ layout: default
 
 ## Existence of mixed dimensional AME states
 
+This table follows the convention that a mixed-dimenensional (heterogeneous) pure state is absolutely maximally entangled (AME),
+if maximal entanglement is present over the given bipartition. A second convention (below) asks for maximal mixed marginals on all subsystems of size $$n/2$$.
+
 | dimensions | Reference |
 | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
 | $$2 \times 5 \times 5 \times 5$$ |  [BZ25]   | 
